@@ -1,8 +1,8 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello, Gay!" << std::endl;
-    std::cout << "Hello, Emma!" << std::endl;
-    std::cout << "Hello, Frank!" << std::endl;
+    std::cout << "Bürg Ákos!" << std::endl;
+    std::cout << "20!" << std::endl;
+    std::cout << "192!" << std::endl;
     return 0;
 }

@@ -1,0 +1,3 @@
+D:/Greenfox/SoulMast3r01/week02/day01/Compare Length/cmake-build-debug/CMakeFiles/Compare_Length.dir
+D:/Greenfox/SoulMast3r01/week02/day01/Compare Length/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Greenfox/SoulMast3r01/week02/day01/Compare Length/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -17,4 +17,6 @@ std::string appendAFunc (std::string x) {
 
 
     std::cout << x << "a" << std::endl;
+
+    return
 }

@@ -8,7 +8,7 @@ int main()
     int baseNum = 123;
      int result = doubling(baseNum);
 
-     std::cout << doubling( baseNum) << std::endl;
+     std::cout << result << std::endl;
 
    return 0;
 

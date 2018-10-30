@@ -1,0 +1,3 @@
+D:/Greenfox/SoulMast3r01/week02/day02/urlfixer/cmake-build-debug/CMakeFiles/urlfixer.dir
+D:/Greenfox/SoulMast3r01/week02/day02/urlfixer/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Greenfox/SoulMast3r01/week02/day02/urlfixer/cmake-build-debug/CMakeFiles/rebuild_cache.dir

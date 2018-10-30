@@ -12,21 +12,22 @@ int main() {
 
 
 
-    for(const auto& planet : putSaturn(planets))
-
+    for(const auto& planet : putSaturn(planets)) {
+        std::cout << planet << " ";
+    }
     return 0;
 }
 
-std::vector<std::string> putSaturn
-        (const std::vector<std::string>& planets){
+std::vector<std::string> putSaturn(const std::vector<std::string>& planets){
     std::string sat = "Saturn";
-    planets.insert( planets.end(), sat );
+    std::vector<std::string> planetsNew = planets;
+    planetsNew.insert( planetsNew.end(), sat );
 
 
-    std::vector new1 (planets);
 
 
 
+    return planetsNew;
 }
 
 

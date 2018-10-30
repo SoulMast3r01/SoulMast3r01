@@ -11,10 +11,21 @@ int main() {
 
 
 
-    for(const auto& planet : makingMatches(girls, boys))
+    for(const auto& result : makingMatches(girls, boys))
     {
-        std::cout << planet << " ";
+
+        std::cout << result << " ";
     }
 
     return 0;
+}
+
+std::vector<std::string> makingMatches(const std::vector<std::string>& girls, const std::vector<std::string>& boys){
+
+    std::vector<std::string>boysNew = boys;
+    std::vector<std::string>girlsNew = girls;
+
+
+
+
 }

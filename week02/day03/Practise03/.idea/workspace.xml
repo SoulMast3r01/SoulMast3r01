@@ -12,54 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f8c0c05-e1a0-4d66-96a7-9b8f7c9dd88f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Practise02/.idea/Practise02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise02/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise02/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise02/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise02/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise02/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise02/cmake-build-debug/CMakeFiles/3.12.3/CMakeCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise02/cmake-build-debug/CMakeFiles/3.12.3/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise02/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise02/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise02/cmake-build-debug/CMakeFiles/3.12.3/CMakeRCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise02/cmake-build-debug/CMakeFiles/3.12.3/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise02/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise02/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/a.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise02/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise02/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/a.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise02/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise02/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise02/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise02/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise02/cmake-build-debug/CMakeFiles/Practise02.dir/CXX.includecache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise02/cmake-build-debug/CMakeFiles/Practise02.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise02/cmake-build-debug/CMakeFiles/Practise02.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise02/cmake-build-debug/CMakeFiles/Practise02.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise02/cmake-build-debug/CMakeFiles/Practise02.dir/depend.internal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise02/cmake-build-debug/CMakeFiles/Practise02.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise02/cmake-build-debug/CMakeFiles/Practise02.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise02/cmake-build-debug/CMakeFiles/Practise02.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise02/cmake-build-debug/CMakeFiles/Practise02.dir/linklibs.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise02/cmake-build-debug/CMakeFiles/Practise02.dir/main.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise02/cmake-build-debug/CMakeFiles/Practise02.dir/objects.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise02/cmake-build-debug/CMakeFiles/Practise02.dir/objects1.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise02/cmake-build-debug/CMakeFiles/Practise02.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise02/cmake-build-debug/CMakeFiles/Progress/1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise02/cmake-build-debug/CMakeFiles/Progress/2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise02/cmake-build-debug/CMakeFiles/Progress/count.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise02/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise02/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise02/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise02/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise02/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise02/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise02/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise02/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise02/cmake-build-debug/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise02/cmake-build-debug/Practise02.cbp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise02/cmake-build-debug/Practise02.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise02/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -73,9 +26,10 @@
     <session id="1325498929">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -91,7 +45,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor" />
@@ -125,8 +79,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="276" />
-    <option name="y" value="70" />
+    <option name="x" value="246" />
+    <option name="y" value="26" />
     <option name="width" value="837" />
     <option name="height" value="698" />
   </component>
@@ -136,8 +90,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -185,24 +139,20 @@
       <option name="presentableId" value="Default" />
       <updated>1540980766378</updated>
       <workItem from="1540980770854" duration="839000" />
+      <workItem from="1540985387307" duration="60000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="839000" />
+    <option name="totallyTimeSpent" value="899000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="276" y="70" width="837" height="698" extended-state="0" />
+    <frame x="246" y="26" width="837" height="698" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.42471042" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.43629342" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="CMake" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" weight="0.32903227" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3617021" />
@@ -210,10 +160,16 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32903227" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CMake" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">

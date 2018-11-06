@@ -1,17 +1,11 @@
 #include <iostream>
-
-int main() {
-
-    int a;
-    int b;
-    int c;
-    int d;
-    int e;
-
-    std::cin >> a >> b >> c >> d >> e >>
-
-    int aRRay [5] = {a,b,c,d,e};
-
-    std::cout <<  << std::endl;
+int main(){
+    int tomb [5];
+    int* tombPointer = tomb;
+    std::cout << "Enter five elements" << std::endl;
+    for(int x = 0; x < 5; x++) {
+        std::cin >> tomb[x];
+        std::cout << *tombPointer + x << std::endl;
+    }
     return 0;
 }

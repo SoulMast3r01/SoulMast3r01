@@ -1,0 +1,10 @@
+"D:\CLion 2018.2.5\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\Greenfox\SoulMast3r01\week03\day03\Horizontal
+-- Looking for pthread.h
+-- Looking for pthread.h - not found
+-- Found Threads: TRUE  
+-- Found SDL2: mingw32;-mwindows;D:/Greenfox/SDL/SDL2-2.0.8/i686-w64-mingw32/lib/libSDL2main.a;D:/Greenfox/SDL/SDL2-2.0.8/i686-w64-mingw32/lib/libSDL2.dll.a  
+-- Found SDL2_image: D:/Greenfox/SDL/SDL2_image-2.0.3/i686-w64-mingw32/lib/libSDL2_image.dll.a (found version "2.0.3") 
+-- Found SDL2_ttf: D:/Greenfox/SDL/SDL2_ttf-2.0.14/i686-w64-mingw32/lib/libSDL2_ttf.dll.a (found version "2.0.14") 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Greenfox/SoulMast3r01/week03/day03/Horizontal/cmake-build-debug

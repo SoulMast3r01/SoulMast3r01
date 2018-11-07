@@ -1,0 +1,3 @@
+"D:\CLion 2018.2.5\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\Position_square.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Position_square.dir/objects.a @CMakeFiles\Position_square.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Position_square.dir/objects.a -Wl,--no-whole-archive  -o Position_square.exe -Wl,--out-implib,libPosition_square.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Position_square.dir\linklibs.rsp

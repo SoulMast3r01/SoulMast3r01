@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Greenfox/SoulMast3r01/week04/day01/Count lines/main.cpp
+iostream
+-
+iostream
+-
+fstream
+-
+sstream
+-
+string
+-
+cstdlib
+-
+

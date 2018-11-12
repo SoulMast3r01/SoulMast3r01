@@ -1,0 +1,3 @@
+D:/Greenfox/SoulMast3r01/week04/day01/Print each line/cmake-build-debug/CMakeFiles/Print_each_line.dir
+D:/Greenfox/SoulMast3r01/week04/day01/Print each line/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Greenfox/SoulMast3r01/week04/day01/Print each line/cmake-build-debug/CMakeFiles/rebuild_cache.dir

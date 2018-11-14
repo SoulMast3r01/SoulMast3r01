@@ -9,16 +9,24 @@
 class Counter {
 public:
     Counter(int stat);
+
     Counter();
 
 
-    int add (int number);
-    void add ();
+    void add(int number);
+
+    void add();
+
     int get();
+
+
     void reset();
+
+    int getInitial();
 
 private:
     int _stat;
+    int _initial = 0;
 };
 
 

@@ -12,11 +12,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4189271-d563-4355-a4fe-226bc8a7d510" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Animal/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Animal/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Animal/animal.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Animal/animal.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day03/Counter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day03/Counter/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day03/Counter/cmake-build-debug/CMakeFiles/Counter.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../day03/Counter/cmake-build-debug/CMakeFiles/Counter.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day03/Counter/cmake-build-debug/CMakeFiles/Counter.dir/counter.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../day03/Counter/cmake-build-debug/CMakeFiles/Counter.dir/counter.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day03/Counter/cmake-build-debug/CMakeFiles/Counter.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../day03/Counter/cmake-build-debug/CMakeFiles/Counter.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day03/Counter/cmake-build-debug/CMakeFiles/Counter.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../../day03/Counter/cmake-build-debug/CMakeFiles/Counter.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day03/Counter/cmake-build-debug/Counter.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../day03/Counter/cmake-build-debug/Counter.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day03/Counter/counter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../day03/Counter/counter.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day03/Counter/counter.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../day03/Counter/counter.h" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,9 +34,9 @@
     <session id="252837688">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.1" value="3" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -66,7 +70,7 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
@@ -82,7 +86,7 @@
         <entry file="file://$PROJECT_DIR$/blogpost.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -90,10 +94,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blogpost.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
+            <state relative-caret-position="136">
               <caret line="8" column="103" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="103" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
@@ -197,17 +201,18 @@
       <workItem from="1542112549444" duration="127000" />
       <workItem from="1542113047548" duration="2661000" />
       <workItem from="1542116240483" duration="2995000" />
+      <workItem from="1542199297626" duration="656000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5783000" />
+    <option name="totallyTimeSpent" value="6439000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="336" y="174" width="830" height="636" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.44155845" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.45324674" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -239,10 +244,10 @@
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/blogpost.h">
+    <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="8" column="103" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="103" />
+        <state relative-caret-position="153">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
@@ -252,17 +257,17 @@
     <entry file="file://$PROJECT_DIR$/blogpost.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
+    <entry file="file://$PROJECT_DIR$/blogpost.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        <state relative-caret-position="136">
+          <caret line="8" column="103" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="103" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
